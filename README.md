@@ -35,7 +35,7 @@ _"Adote um estilo e escolha o seu caminho. Seja você mesmo antes de tudo."_
 
 - 💬 Pergunte-nos sobre **HTML, CSS, JavaScript, React, Node.js, SQL, PostgreSQL, MySQL, TypeOrm, Lógica de programação, Python, Django, Rest Framework, NestJS, Express, Next**
 
-- 📫 Como chegar até mim **toledomg@yahoo.com.br**
+- 📫 Como chegar até nós: **contato@luchost.com**
 
 - ✨ Acesse nosso Portfolio:
 
